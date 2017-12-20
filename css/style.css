@@ -46,37 +46,65 @@ text-align: right;
 
 #conteneur{
   display: flex;
+
 }
 .section2-1{
   height:250px;
-  width: 250px;
+  width:250px;
   border:1px solid black;
   margin-left:40px;
   margin-top:120px;
   display: inline;
+  background-image: url(/home/delphine/Téléchargements/images/flower15.jpg);
+
+
+    }
+    .section2-2{
+      height:250px;
+      width: 250px;
+      border:1px solid black;
+      margin-left:40px;
+      margin-top:120px;
+      display: inline;
+      background-image: url(/home/delphine/Téléchargements/images/flower17.jpg);
+    }
+
+    .section2-3{
+      height:250px;
+      width: 250px;
+      border:1px solid black;
+      margin-left:40px;
+      margin-top:120px;
+      background-image: url(/home/delphine/Téléchargements/images/flower7.jpg);
+    }
+
+    .section2-4{
+      height:250px;
+      width: 250px;
+      border:1px solid black;
+      margin-left:40px;
+      margin-top:120px;
+      background-image: url(/home/delphine/Téléchargements/images/pots-with-basil-in-garden.jpg);
+    }
+     .section3{
+       height:500;
+        width: auto;
+        border:1px solid black;
+        background-image: url(/home/delphine/Téléchargements/images/flower19.jpg);
+
 }
 
-.section2-2{
-  height:250px;
-  width: 250px;
-  border:1px solid black;
-  margin-left:40px;
-  margin-top:120px;
-  display: inline;
-}
 
-.section2-3{
-  height:250px;
-  width: 250px;
-  border:1px solid black;
-  margin-left:40px;
-  margin-top:120px;
+   .p{
+     text-align: justify;
+     text-align: right;
+     float: right;
+     text-indent: 1rem;
 }
+.mailto{
+  text-align: right;
+  text-transform:
+}
+.button{
 
-.section2-4{
-  height:250px;
-  width: 250px;
-  border:1px solid black;
-  margin-left:40px;
-  margin-top:120px;
 }
